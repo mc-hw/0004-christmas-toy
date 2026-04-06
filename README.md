@@ -1,8 +1,10 @@
-# {{Project name}} (0000)
+# Christmas toy (0004)
+
+For my son, Michał
 
 ## Description
 
-Few words describing what this project is doing.
+This project is a Christmas tree toy/decoration, which gets enabled after sunset.
 
 <img src="images/schematic.png" alt="Schematic" style="width:600px;"/>
 
